@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    color: rgb(0, 92, 92);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 4em;
+}
+
+main {
+    color: darkorange;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 92, 92);
+    padding: 0.5em;
+    border-radius: 10px;
+}
